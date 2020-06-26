@@ -1,2 +1,2 @@
 # MCDP-downloads
-### A download hub for the closed-source MCDP project.
+### A download hub for the closed-source MCDP (Minecraft Cheat Detection Project) project.
